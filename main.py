@@ -52,8 +52,6 @@ def updateFoodStats(data=[]):
     else:
         stats[data[5]][2] = data[6]
 
-
-
 def updataTotalStats():
     for x in stats:
         stats[x][3] = int(stats[x][0])+int(stats[x][1])+int(stats[x][2])
