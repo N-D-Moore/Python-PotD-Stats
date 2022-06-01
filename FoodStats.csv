@@ -1,0 +1,21 @@
+Food,Stat 1,Stat 2,Stat 3
+Archon Burger,DH,90,VIT,93,DET,54
+Beef Stroganoff,SKS,90,VIT,93,DH,54
+Pumpkin Ratatouille,CH,90,VIT,93,SKS,54
+Pumpkin Potage,DET,90,VIT,93,CH,54
+Peach Juice,PIE,90,VIT,93,DET,54
+Peach Tart,SPS,90,VIT,93,PIE,54
+Sykon Cookie,SPS,90,VIT,93,DH,54
+Thavnairian Chai,CH,90,VIT,93,SPS,54
+Scallop Salad,TEN,90,VIT,93,DET,54
+Scallop Curry,DET,90,VIT,93,TEN,54
+Elpis Deipnon,TEN,82,VIT,93,DET,50
+Baked Alien Soup,SKS,82,VIT,93,DH,50
+Sykon Salad,SPS,82,VIT,93,DH,50
+Sykon Compote,PIE,82,VIT,93,DET,50
+Sykon Bavarois,DH,82,VIT,93,DET,50
+Philosopher's Sandwich,SPS,76,VIT,93,DH,46
+Salted Thavnairian Cod,PIE,76,VIT,93,DET,46
+Coconut Cod Chowder,DET,76,VIT,93,CH,46
+The Noodles of Elpis,DH,76,VIT,93,DET,46
+Giant Popoto Pancakes,TEN,76,VIT,93,DET,46
